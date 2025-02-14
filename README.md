@@ -12,4 +12,4 @@ O documento de requisitos, `Requisitos_Forca.md`, contém a descrição detalhad
   ```bash
   git clone https://github.com/seu-usuario/jogo-forca-online.git
 
-[Jogo de Força Online no GitHub](https://github.com/lucasbrasil9/Ponderada_Forca)
+[Jogo de Forca Online no GitHub](https://github.com/lucasbrasil9/Ponderada_Forca)
